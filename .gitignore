@@ -1,0 +1,15 @@
+# Derlenmiş dosyalar
+*.out
+*.o
+*.exe
+a.out
+# C#
+bin/
+obj/
+# Python
+__pycache__/
+*.pyc
+.venv/
+# Sistem
+.DS_Store
+.vscode/
