@@ -2,4 +2,4 @@
 
 ## Son çalışma
 
-Henüz yok.
+**Hello World** → [`001_hello_world.py`](001_hello_world.py)
