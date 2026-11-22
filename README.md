@@ -1,6 +1,6 @@
-# Ela Coding
+# ela Coding
 
-Her gün C, C++, C# veya Python ile bir şeyler yazıyorum. Başlangıç seviyesinden başlayıp adım adım ilerliyorum.
+Her gün C, C++, C# veya Python ile bir şeyler yazmaya çalışıyorum. Başlangıç seviyesinden başlayıp adım adım ilerliyorum.
 Her dilin kendi klasörü var.
 
 | Dil | Klasör |
