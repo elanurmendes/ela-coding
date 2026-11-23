@@ -2,4 +2,4 @@
 
 ## Son çalışma
 
-**Hello World** → [`001_hello_world.cpp`](001_hello_world.cpp)
+**Değişkenler** → [`002_variables.cpp`](002_variables.cpp)

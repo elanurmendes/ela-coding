@@ -12,7 +12,7 @@ Her dilin kendi klasörü var.
 
 ## Son çalışma
 
-**Hello World** → [C](C/001_hello_world.c) · [C++](C%2B%2B/001_hello_world.cpp) · [C#](C%23/001_hello_world.cs) · [Python](Python/001_hello_world.py)
+**Değişkenler** → [C](C/002_variables.c) · [C++](C%2B%2B/002_variables.cpp) · [C#](C%23/002_variables.cs) · [Python](Python/002_variables.py)
 
 ## Dosya adlandırma
 

@@ -1,4 +1,4 @@
-# Derlenmiş dosyalar
+# Compiled files
 *.out
 *.o
 *.exe
@@ -10,10 +10,10 @@ obj/
 __pycache__/
 *.pyc
 .venv/
-# Sistem
+# System
 .DS_Store
 .vscode/
-# Derlenmiş C/C++ programları (uzantısız dosyalar)
+# Compiled C/C++ programs (files without extension)
 C/*
 !C/*.*
 C++/*

@@ -2,4 +2,4 @@
 
 ## Son çalışma
 
-**Hello World** → [`001_hello_world.cs`](001_hello_world.cs)
+**Değişkenler** → [`002_variables.cs`](002_variables.cs)
