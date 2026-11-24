@@ -2,4 +2,4 @@
 
 ## Son çalışma
 
-**Değişkenler** → [`002_variables.py`](002_variables.py)
+**Kullanıcıdan girdi alma** → [`003_user_input.py`](003_user_input.py)

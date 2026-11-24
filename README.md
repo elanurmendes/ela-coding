@@ -12,7 +12,7 @@ Her dilin kendi klasörü var.
 
 ## Son çalışma
 
-**Değişkenler** → [C](C/002_variables.c) · [C++](C%2B%2B/002_variables.cpp) · [C#](C%23/002_variables.cs) · [Python](Python/002_variables.py)
+**Kullanıcıdan girdi alma** → [Python](Python/003_user_input.py)
 
 ## Dosya adlandırma
 
