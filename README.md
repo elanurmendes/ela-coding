@@ -12,7 +12,7 @@ Her dilin kendi klasörü var.
 
 ## Son çalışma
 
-**if-else: tek mi çift mi?** → [Python](Python/004_odd_or_even.py) · **Hesap makinesi** → [Python](Python/005_calculator.py)
+**Veri tipleri** → [C](C/003_data_types.c) · **Kullanıcıdan girdi alma** → [C](C/004_user_input.c)
 
 ## Dosya adlandırma
 
