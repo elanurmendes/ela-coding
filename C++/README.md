@@ -2,4 +2,4 @@
 
 ## Son çalışma
 
-**Değişkenler** → [`002_variables.cpp`](002_variables.cpp)
+**Kullanıcıdan girdi alma** → [`003_user_input.cpp`](003_user_input.cpp)

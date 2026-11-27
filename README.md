@@ -12,7 +12,7 @@ Her dilin kendi klasörü var.
 
 ## Son çalışma
 
-**Veri tipleri** → [C](C/003_data_types.c) · **Kullanıcıdan girdi alma** → [C](C/004_user_input.c)
+**Aritmetik operatörler** → [C](C/005_operators.c) · **Kullanıcıdan girdi alma** → [C++](C%2B%2B/003_user_input.cpp)
 
 ## Dosya adlandırma
 
